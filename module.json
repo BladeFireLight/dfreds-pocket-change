@@ -48,7 +48,7 @@
   },
   "socket": false,
   "manifest": "https://github.com/BladeFireLight/dfreds-pocket-change/releases/latest/download/module.json",
-  "download": "https://github.com/BladeFireLight/dfreds-pocket-change/releases/download/v2.0.2/dfreds-pocket-change.zip",
+  "download": "https://github.com/BladeFireLight/dfreds-pocket-change/archive/refs/tags/0.1.zip",
   "protected": false,
   "coreTranslation": false
 }
