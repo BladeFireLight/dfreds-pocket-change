@@ -16,7 +16,7 @@
   "bugs": "https://github.com/BladeFireLight/dfreds-pocket-change/issues",
   "changelog": "https://github.com/BladeFireLight/dfreds-pocket-change/releases",
   "flags": {},
-  "version": "2.0.2",
+  "version": "0.1",
   "compatibility": {
     "minimum": 10,
     "verified": "10.291",
